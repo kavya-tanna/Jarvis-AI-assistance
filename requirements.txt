@@ -1,0 +1,33 @@
+# ===================================================
+# JARVIS AI Assistant — Dependencies
+# ===================================================
+
+# Core
+customtkinter>=5.2.0
+python-dotenv>=1.0.0
+
+# AI Providers
+google-genai>=1.0.0
+openai>=1.0.0
+anthropic>=0.20.0
+groq>=0.4.0
+
+# Speech
+speechrecognition>=3.10.0
+pyttsx3>=2.90
+pyaudio>=0.2.14
+
+# System Control
+psutil>=5.9.0
+pillow>=10.0.0
+pycaw>=20230407
+comtypes>=1.2.0
+pywin32>=306
+thefuzz>=0.20.0
+python-Levenshtein>=0.21.0
+keyboard>=0.13.5
+
+# Optional (uncomment to enable)
+# elevenlabs>=1.0.0       # Premium voice
+# pywhatkit>=5.4          # WhatsApp messaging
+# pygame>=2.5.0           # Audio playback
