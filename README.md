@@ -65,12 +65,6 @@ A production-grade AI voice assistant built with Python, inspired by Iron Man's 
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots of the GUI here after first run.*
-
----
-
 ## 🚀 Quick Start
 
 ### Prerequisites
